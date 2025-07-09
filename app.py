@@ -50,14 +50,8 @@ def set_background(image_file):
     st.markdown(style, unsafe_allow_html=True)
 
 
-<<<<<<< HEAD:app.py
-set_background('nutrition.jpg')  
-=======
-# Call the new function
-# set_background_url()
 
-set_background('Smartest-AI-Nutrition-Assistant/background.jpg')  
->>>>>>> 9a3d7eca125952a13213f72a061c8a9eb3212445:Smartest-AI-Nutrition-Assistant/app.py
+set_background('nutrition.jpg') 
 # CSS
 st.markdown("""
 <style>
