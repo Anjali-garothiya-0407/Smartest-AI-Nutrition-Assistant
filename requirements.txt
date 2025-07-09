@@ -1,13 +1,5 @@
-<<<<<<< HEAD:requirements.txt
 pandas
 streamlit
 streamlit-chat
 requests
 python-dotenv
-=======
-pandas
-streamlit
-streamlit-chat
-requests
-python-dotenv
->>>>>>> 9a3d7eca125952a13213f72a061c8a9eb3212445:Smartest-AI-Nutrition-Assistant/requirements.txt
